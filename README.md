@@ -29,6 +29,8 @@ The solution to synchronizing upload to creation date and times for each individ
 - open console by clicking F12, paste and execute code
 - wait for final result, where code will sync exery single picture that you selected
 
+![code-usage](./assets/code-usage.gif)
+
 # How does it work?
 The code is based on actions performed by automation programs such as Selenium. The code has defined fields that it searches on our website and performs the actions of clicking, copying and pasting texts for us.
 
