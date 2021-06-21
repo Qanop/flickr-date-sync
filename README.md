@@ -4,7 +4,7 @@
 
 <p align="center">
     <a href="https://github.com/Atryni/flickr-date-sync/">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/9/9b/Flickr_logo.png" width="150" height="260" alt="Flickr Date Sync">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/9/9b/Flickr_logo.png" alt="Flickr Date Sync">
     </a>
     <br>
     <strong>Sync your selected images upload date with creation date</strong>
@@ -13,7 +13,7 @@
 
 The Flickr Date Sync is a simple Javascipt open-source code, that provides function to synchronize dates in Flickr's Camera Roll section.
 
-- **Easy-to-execute**: just copy content of [code.js](./code.js) and paste in console
+- **Easy-to-execute**: just copy content of [code.js](https://raw.githubusercontent.com/Atryni/flickr-date-sync/master/code.js) and paste in console
 - **Free**: open source software which helps ensure _you_ are the sole person in control
 
 -----
@@ -23,9 +23,10 @@ When uploading photos to a Flickr website, we don't always have control over the
 The solution to synchronizing upload to creation date and times for each individual photo in our collection is to run an automation script.
 
 # How to use it?
+- [copy this code to clipboard](https://raw.githubusercontent.com/Atryni/flickr-date-sync/master/code.js)
 - open your [Flickr's Camera Roll](https://flickr.com/cameraroll) site
 - select images that you want to sync
-- execute code
+- open console by clicking F12, paste and execute code
 - wait for final result, where code will sync exery single picture that you selected
 
 # How does it work?
